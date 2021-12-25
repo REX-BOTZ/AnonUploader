@@ -26,6 +26,10 @@
         "UPDATES_CHANNEL": {
             "description": "Your Update Channel Username without '@'",
             "value": ""
+        },
+        "USER_NAME": {
+            "description": "Your APP ID from my.telegram.org",
+            "value": ""
         }
     },
     "addons": [],
