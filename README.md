@@ -23,7 +23,7 @@
 ### Deploy on VPS :
 
 ```py
-git clone https://github.com/REX-BOTZ/Anon-File-Uploader
+git clone https://github.com/REX-BOTZ/AnonUploader
 cd AnonFilesBot
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
