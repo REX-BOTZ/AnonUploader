@@ -37,19 +37,19 @@ bot = Client(
 
 
 START_TEXT = """
-__Hᴇʟʟᴏ Dᴇᴀʀ I'ᴍ__ **AɴᴏɴFɪʟᴇsBᴏᴛ** 😎 \n\n__I Cᴀɴ Uᴘʟᴏᴀᴅ Fɪʟᴇs Tᴇʟᴇɢʀᴀ Tᴏ AɴᴏɴFɪʟᴇs__\n\n__MᴀɪɴTᴀɪɴᴇᴅ Bʏ__ :** @Benwolf24**
+__Hᴇʟʟᴏ Dᴇᴀʀ I'ᴍ__ **AɴᴏɴFɪʟᴇsBᴏᴛ** 😎 \n\n__I Cᴀɴ Uᴘʟᴏᴀᴅ Fɪʟᴇs Tᴇʟᴇɢʀᴀ Tᴏ AɴᴏɴFɪʟᴇs__\n\n__MᴀɪɴTᴀɪɴᴇᴅ Bʏ__ :** 𝙷𝚎𝚛𝚘𝚔𝚞 **
 """
 HELP_TEXT = """
-**AɴᴏɴFɪʟᴇsBᴏᴛ Hᴇʟᴘ**\n\n__Sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ғɪʟᴇ, I'ʟʟ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴛᴏ ᴀɴᴏɴғɪʟᴇs.ᴄᴏᴍ ᴀɴᴅ ɢɪᴠᴇ ʏᴏᴜ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ__\n\n__MᴀɪɴTᴀɪɴᴇᴅ Bʏ__ :** @Rex_Botz**
+**AɴᴏɴFɪʟᴇsBᴏᴛ Hᴇʟᴘ**\n\n__Sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ғɪʟᴇ, I'ʟʟ ᴜᴘʟᴏᴀᴅ ɪᴛ ᴛᴏ ᴀɴᴏɴғɪʟᴇs.ᴄᴏᴍ ᴀɴᴅ ɢɪᴠᴇ ʏᴏᴜ ᴅɪʀᴇᴄᴛ ᴅᴏᴡɴʟᴏᴀᴅ ʟɪɴᴋ__\n\n__MᴀɪɴTᴀɪɴᴇᴅ Bʏ__ :** 𝙷𝚎𝚛𝚘𝚔𝚞**
 """
 ABOUT_TEXT = """
 ╭────[⚡ ᴀʙᴏᴜᴛ ⚡]───⍟
 │
-├<b>🤖 𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : <a href='https://t.me/AnonFilesRexBot'>ᴀɴᴏɴғɪʟᴇs-ᴜᴘʟ</a></b>
+├<b>🤖 𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : ᴀɴᴏɴᴜᴘʟᴏᴀᴅᴇʀ</b>
 │
 ├<b>📢 𝙲𝚑𝚊𝚗𝚗𝚎𝚕  : <a href='https://t.me/Rex_Botz'>ᴊᴏɪɴ</a></b>
 │
-├<b>👥 𝚅𝚎𝚛𝚜𝚒𝚘𝚗  : <a href='https://t.me/Rex_Bots_Support'>0.9.2ʙᴇᴛᴀ</a></b>
+├<b>👥 𝚅𝚎𝚛𝚜𝚒𝚘𝚗  : 0.9.2ʙᴇᴛᴀ</b>
 │
 ├<b>💢 𝚂𝚘𝚞𝚛𝚌𝚎   : <a href='https://github.com/REX-BOTZ/'>ᴅᴇᴘʟᴏʏ</a></b>
 │
@@ -59,7 +59,7 @@ ABOUT_TEXT = """
 │
 ├<b>㊙ 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 : <a href='https://www.python.org'>ᴘʏ3.9.4</a></b>
 │
-├<b>👨‍💻 𝙳𝚎𝚟      : <a href='https://t.me/BENWOLF24'>ᴡᴏʟғ24</a></b>
+├<b>👨‍💻 𝙳𝚎𝚟      : ʙᴇɴᴡᴏʟғ24</b>
 │
 ├<b>🚸 𝙿𝚘𝚠𝚎𝚛𝚎𝚍  : <a href='https://t.me/FluxPlay'>ғʟᴜxᴘʟᴀʏ</a></b>
 │
@@ -182,7 +182,7 @@ async def upload(client, message):
 
 **📥Dᴏᴡɴʟᴏᴀᴅ Lɪɴᴋ:** `{text['data']['file']['url']['full']}`
 
-🔅__MᴀɪɴTᴀɪɴᴇᴅ Bʏ__ :** @Rex_Botz **"""
+🔅__MᴀɪɴTᴀɪɴᴇᴅ Bʏ__ :** 𝙷𝚎𝚛𝚘𝚔𝚞 **"""
         btn = InlineKeyboardMarkup(
                                 [[InlineKeyboardButton("Dᴏᴡɴʟᴏᴀᴅ Fɪʟᴇ", url=f"{text['data']['file']['url']['full']}")]])
         await m.edit(output, reply_markup=btn)
